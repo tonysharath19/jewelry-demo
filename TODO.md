@@ -1,0 +1,5 @@
+- [x] Add CSS rule for .hero background-image in mobile media query
+- [x] Add CSS rule for .category#neck background-image in mobile media query
+- [x] Add CSS rule for .category#earrings background-image in mobile media query
+- [x] Add CSS rule for .category#temple background-image in mobile media query
+- [x] Add CSS rule for .category#contemporary background-image in mobile media query
